@@ -1,0 +1,96 @@
+1x Agadeem's Awakening // Agadeem, the Undercrypt (znr) [Land]  ^Have,#37d67a^
+1x Ancient Greenwarden (znr) ^Have,#37d67a^
+1x Assassin's Trophy (grn) ^Have,#37d67a^
+1x Avenger of Zendikar (wwk) ^Have,#37d67a^
+1x Azusa, Lost but Seeking (chk) ^Have,#37d67a^
+1x Barren Moor (mh1) ^Have,#37d67a^
+1x Bedevil (rna) ^Have,#37d67a^
+1x Blood Crypt (rna) ^Have,#37d67a^
+1x Bloodstained Mire (ons) ^Have,#37d67a^
+1x Bojuka Bog (wwk) ^Have,#37d67a^
+1x Boseiju, Who Shelters All (chk) ^Have,#37d67a^
+1x Cabal Coffers (hop) ^Have,#37d67a^
+1x Canyon Slough (akh) ^Have,#37d67a^
+1x Castle Locthwain (eld) *F*  ^Have,#37d67a^
+1x Cavalier of Flame (m20) ^Have,#37d67a^
+1x Cinder Glade (bfz) ^Have,#37d67a^
+1x Command Tower (c18) ^Have,#37d67a^
+1x Crop Rotation (ddr) ^Have,#37d67a^
+1x Crucible of Worlds (mps) *F*  ^Have,#37d67a^
+1x Cultivate (m11) ^Have,#37d67a^
+1x Dakmor Salvage (fut) ^Have,#37d67a^
+1x Damnation (plc) ^Have,#37d67a^
+1x Dragonmaster Outcast (bfz) ^Have,#37d67a^
+1x Dread Presence (m20) *F*  ^Have,#37d67a^
+1x Dryad of the Ilysian Grove (thb) ^Have,#37d67a^
+1x Evolution Sage (war) ^Have,#37d67a^
+1x Exploration (usg) ^Have,#37d67a^
+1x Explore (wwk) ^Have,#37d67a^
+1x Fabled Passage (eld) ^Have,#37d67a^
+1x Field of the Dead (m20) ^Have,#37d67a^
+1x Finale of Devastation (war) ^Have,#37d67a^
+5x Forest (zen) 248 ^Have,#37d67a^
+1x Forgotten Cave (mh1) ^Have,#37d67a^
+1x God-Eternal Bontu (war) *F*  ^Have,#37d67a^
+1x God-Eternal Rhonas (war) ^Have,#37d67a^
+1x Golgari Rot Farm (gk1) ^Have,#37d67a^
+1x Gruul Turf (gk2) ^Have,#37d67a^
+1x Harrow (zen) ^Have,#37d67a^
+1x Jokulhaups (ice) ^Have,#37d67a^
+1x Kodama's Reach (chk) ^Have,#37d67a^
+1x Life from the Loam (ddj) ^Have,#37d67a^
+1x Lord Windgrace (c18) *F*  [Commander{top}]  ^Have,#37d67a^
+1x Lotus Field (m20) ^Have,#37d67a^
+1x Maelstrom Pulse (mma) ^Have,#37d67a^
+1x Misty Rainforest (zen) ^Have,#37d67a^
+2x Mountain (zen) 244 ^Have,#37d67a^
+1x Nature's Claim (wwk) ^Have,#37d67a^
+1x Nissa, Who Shakes the World (war) ^Have,#37d67a^
+1x Nurturing Peatland (mh1) ^Have,#37d67a^
+1x Ob Nixilis, the Fallen (zen) ^Have,#37d67a^
+1x Obliterate (inv) ^Have,#37d67a^
+1x Omnath, Locus of Rage (bfz) ^Have,#37d67a^
+1x Oracle of Mul Daya (zen) ^Have,#37d67a^
+1x Overgrown Tomb (grn) ^Have,#37d67a^
+1x Phylath, World Sculptor (znr) ^Have,#37d67a^
+1x Price of Glory (ody) [Maybeboard{noDeck}{noPrice}] 
+1x Prismatic Omen (shm) ^Have,#37d67a^
+1x Prismatic Vista (mh1) ^Have,#37d67a^
+1x Pyroblast (ice) ^Have,#37d67a^
+1x Radha, Heart of Keld (m21) ^Have,#37d67a^
+1x Raging Ravine (wwk) ^Have,#37d67a^
+1x Rampaging Baloths (pzen) *F*  ^Have,#37d67a^
+1x Ramunap Excavator (phou) *F*  ^Have,#37d67a^
+1x Realms Uncharted (roe) ^Have,#37d67a^
+1x Retreat to Hagra (bfz) ^Have,#37d67a^
+1x Rootbound Crag (xln) ^Have,#37d67a^
+1x Scapeshift (mor) ^Have,#37d67a^
+1x Sheltered Thicket (akh) ^Have,#37d67a^
+1x Sol Ring (c18) ^Have,#37d67a^
+1x Spire Garden (bbd) ^Have,#37d67a^
+1x Splendid Reclamation (emn) ^Have,#37d67a^
+1x Springbloom Druid (mh1) ^Have,#37d67a^
+1x Stomping Ground (rna) ^Have,#37d67a^
+1x Swamp (zen) 240 ^Have,#37d67a^
+1x Sylvan Scrying (mrd) ^Have,#37d67a^
+1x The Gitrog Monster (soi) ^Have,#37d67a^
+1x The Mending of Dominaria (dom) ^Have,#37d67a^
+1x Tranquil Thicket (mh1) ^Have,#37d67a^
+1x Ulvenwald Hydra (soi) ^Have,#37d67a^
+1x Undergrowth Stadium (cmr) ^Have,#37d67a^
+1x Urborg, Tomb of Yawgmoth (plc) ^Have,#37d67a^
+1x Vaevictis Asmadi, the Dire (m19) *F*  ^Have,#37d67a^
+1x Valakut, the Molten Pinnacle (zen) ^Have,#37d67a^
+1x Vampiric Tutor (ema) ^Have,#37d67a^
+1x Veil of Summer (m20) *F*  ^Have,#37d67a^
+1x Verdant Catacombs (zen) ^Have,#37d67a^
+1x Volrath's Stronghold (sth) ^Have,#37d67a^
+1x Vraska, Golgari Queen (grn) ^Have,#37d67a^
+1x Wasteland (ema) ^Have,#37d67a^
+1x Wayward Swordtooth (rix) ^Have,#37d67a^
+1x Windgrace's Judgment (c18) ^Have,#37d67a^
+1x Windswept Heath (ons) ^Have,#37d67a^
+1x Wooded Foothills (ons) ^Have,#37d67a^
+1x World Breaker (ogw) ^Have,#37d67a^
+1x Worm Harvest (eve) ^Have,#37d67a^
+1x Wrenn and Six (mh1) ^Have,#37d67a^
