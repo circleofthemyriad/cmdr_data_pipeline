@@ -3,5 +3,6 @@ from replace import *
 from logging import *
 from extract import *
 
-#Three letter tag for every Magic set
-mtg_set_dict = {}
+# __main__
+for deck in CMDR_RAW_FILES:
+    deck_object = Extract(deck).createDeck()
