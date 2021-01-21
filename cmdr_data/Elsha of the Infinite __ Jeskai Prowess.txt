@@ -11,6 +11,8 @@
 1x Castle Ardenvale (eld) ^Have,#37d67a^
 1x Castle Vantress (eld) ^Have,#37d67a^
 1x Chromatic Lantern (grn) ^Have,#37d67a^
+1x Chromatic Sphere (mrd) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
+1x Chromatic Star (tsp) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
 1x Chrome Mox (ema) ^Have,#37d67a^
 1x Cloud Key (fut) ^Have,#37d67a^
 1x Command Tower (cmr) ^Have,#37d67a^
@@ -22,10 +24,12 @@
 1x Echo of Eons (mh1) ^Have,#37d67a^
 1x Elsha of the Infinite (c19) *F*  [Commander{top}]  ^Have,#37d67a^
 1x Elspeth, Sun's Champion (ths) ^Have,#37d67a^
+1x Emry, Lurker of the Loch (eld) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
 1x Enlightened Tutor (ema) ^Have,#37d67a^
 1x Etherium Sculptor (mma) ^Have,#37d67a^
 1x Fabled Passage (eld) ^Have,#37d67a^
 1x Fervor (m13) ^Have,#37d67a^
+1x Fierce Guardianship (c20) [Maybeboard{noDeck}{noPrice}]  ^Getting,#2ccce4^
 1x Fiery Islet (mh1) ^Have,#37d67a^
 1x Finale of Promise (war) ^Have,#37d67a^
 1x Firebrand Archer (hou) ^Have,#37d67a^
@@ -35,6 +39,7 @@
 1x Guttersnipe (rtr) ^Have,#37d67a^
 1x Hall of Heliod's Generosity (mh1) ^Have,#37d67a^
 1x Hallowed Fountain (rna) ^Have,#37d67a^
+1x Herald of Kozilek (bfz) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
 1x Hindering Light (ala) ^Have,#37d67a^
 1x Idyllic Tutor (mor) ^Have,#37d67a^
 1x Increasing Devotion (dka) ^Have,#37d67a^
@@ -52,6 +57,7 @@
 1x Mountain (unh) 139 ^Have,#37d67a^
 1x Mystic Sanctuary (eld) ^Have,#37d67a^
 1x Mystical Tutor (ema) ^Have,#37d67a^
+1x Origin Spellbomb (som) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
 1x Past in Flames (isd) ^Have,#37d67a^
 1x Path to Exile (con) ^Have,#37d67a^
 1x Plains (unh) 136 ^Have,#37d67a^
@@ -65,6 +71,7 @@
 1x Rite of Replication (zen) ^Have,#37d67a^
 1x Sacred Foundry (grn) ^Have,#37d67a^
 1x Saheeli, Sublime Artificer (war) ^Have,#37d67a^
+1x Sai, Master Thopterist (m19) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
 1x Scalding Tarn (zen) ^Have,#37d67a^
 1x Scroll Rack (mps) *F*  ^Have,#37d67a^
 1x Sea of Clouds (bbd) ^Have,#37d67a^

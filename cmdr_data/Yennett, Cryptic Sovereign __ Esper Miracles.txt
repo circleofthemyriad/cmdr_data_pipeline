@@ -1,6 +1,7 @@
 1x Academy Ruins (2xm) ^Have,#37d67a^
 1x Aminatou, the Fateshifter (c18) *F*  ^Have,#37d67a^
 1x Angel of Serenity (rtr) ^Have,#37d67a^
+1x Angelic Arbiter (jmp) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
 1x Arcane Signet (c20) ^Have,#37d67a^
 1x Azorius Signet (gk2) ^Have,#37d67a^
 1x Baneful Omen (roe) ^Have,#37d67a^
@@ -12,6 +13,7 @@
 1x Chrome Mox (ema) ^Have,#37d67a^
 1x Command Tower (c18) ^Have,#37d67a^
 1x Cyclonic Rift (rtr) ^Have,#37d67a^
+1x Demon of Loathing (thb) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
 1x Diluvian Primordial (gtc) ^Have,#37d67a^
 1x Dimir Signet (gk1) ^Have,#37d67a^
 1x Doom Whisperer (grn) ^Have,#37d67a^
@@ -46,12 +48,14 @@
 1x Magister Sphinx (con) ^Have,#37d67a^
 1x Mana Drain (ima) ^Have,#37d67a^
 1x Marsh Flats (zen) ^Have,#37d67a^
+1x Mnemonic Deluge (cmr) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
 1x Morphic Pool (bbd) ^Have,#37d67a^
 1x Mystic Sanctuary (eld) ^Have,#37d67a^
 1x Mystical Tutor (mir) ^Have,#37d67a^
 1x Nexus of Fate (m19) *F*  ^Have,#37d67a^
 1x Path to Exile (con) ^Have,#37d67a^
 1x Peer into the Abyss (m21) ^Have,#37d67a^
+1x Pelakka Predation // Pelakka Caverns (znr) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
 1x Penance (exo) ^Have,#37d67a^
 1x Plains (unh) 136 ^Have,#37d67a^
 1x Polluted Delta (ons) ^Have,#37d67a^
@@ -63,6 +67,7 @@
 1x Reflecting Pool (j19) *F*  ^Have,#37d67a^
 1x Return to Dust (tsp) ^Have,#37d67a^
 1x Scheming Symmetry (m20) ^Have,#37d67a^
+1x Scholar of the Lost Trove (jmp) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
 1x Scroll Rack (mps) *F*  ^Have,#37d67a^
 1x Scrubland (leb) ^Have,#37d67a^
 1x Sea Gate Restoration // Sea Gate, Reborn (znr) [Land]  ^Have,#37d67a^
@@ -84,6 +89,8 @@
 1x Terminus (c18) ^Have,#37d67a^
 1x Teysa, Envoy of Ghosts (dgm) ^Have,#37d67a^
 1x Thryx, the Sudden Storm (thb) ^Have,#37d67a^
+1x Time Wipe (war) [Maybeboard{noDeck}{noPrice}]  ^Have,#37d67a^
+1x Triumphant Reckoning (cmr) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
 1x Tundra (leb) ^Have,#37d67a^
 1x Turn Aside (som) ^Have,#37d67a^
 1x Twilight Prophet (rix) ^Have,#37d67a^
