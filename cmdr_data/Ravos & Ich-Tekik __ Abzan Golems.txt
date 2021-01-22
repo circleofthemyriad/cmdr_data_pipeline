@@ -4,6 +4,7 @@
 1x Anguished Unmaking (soi) ^Getting,#2ccce4^
 1x Arcbound Reclaimer (dst) ^Getting,#2ccce4^
 1x Armix, Filigree Thrasher (cmr) *F*  ^Have,#37d67a^
+1x Ashnod's Altar (ema) ^Getting,#2ccce4^
 1x Awakened Amalgam (rix) ^Getting,#2ccce4^
 1x Birthing Boughs (mh1) ^Have,#37d67a^
 1x Blade Splicer (nph) ^Have,#37d67a^
@@ -19,7 +20,7 @@
 1x Darksteel Sentinel (som) ^Have,#37d67a^
 1x Dispeller's Capsule (ala) ^Have,#37d67a^
 1x Doubling Season (2xm) ^Have,#37d67a^
-1x Epitaph Golem (soi) ^Getting,#2ccce4^
+1x Eldrazi Displacer (ogw) ^Getting,#2ccce4^
 1x Executioner's Capsule (ala) ^Have,#37d67a^
 1x Expedition Map (zen) ^Have,#37d67a^
 1x Fabled Passage (eld) ^Getting,#2ccce4^
@@ -33,7 +34,6 @@
 1x Golden Guardian // Gold-Forge Garrison (rix) ^Have,#37d67a^
 1x Golem Artisan (som) ^Have,#37d67a^
 1x Golem Foundry (som) ^Have,#37d67a^
-1x Hedron Archive (bfz) ^Have,#37d67a^
 1x High Market (2xm) ^Getting,#2ccce4^
 1x Howling Golem (dom) ^Have,#37d67a^
 1x Icehide Golem (mh1) ^Have,#37d67a^
@@ -44,7 +44,7 @@
 1x Lodestone Golem (wwk) ^Getting,#2ccce4^
 1x Mage-Ring Responder (ori) ^Have,#37d67a^
 1x Malakir Rebirth // Malakir Mire (znr) *F*  [Land]  ^Have,#37d67a^
-1x Mana Vault (uma) [Maybeboard{noDeck}{noPrice}]  ^Getting,#2ccce4^
+1x Mana Vault (uma) ^Getting,#2ccce4^
 1x Marsh Flats (zen) ^Have,#37d67a^
 1x Master Splicer (nph) ^Have,#37d67a^
 1x Maul Splicer (nph) ^Have,#37d67a^
@@ -69,7 +69,6 @@
 1x Salvage Titan (ala) ^Have,#37d67a^
 1x Scarecrone (eve) ^Getting,#2ccce4^
 1x Sensor Splicer (nph) ^Have,#37d67a^
-1x Sisay's Ring (cmr) ^Have,#37d67a^
 1x Skeleton Shard (mrd) ^Have,#37d67a^
 1x Smothering Tithe (rna) ^Getting,#2ccce4^
 3x Snow-Covered Forest (khm) 285 *F*  ^Getting,#2ccce4^
@@ -78,11 +77,10 @@
 1x Sol Ring (cmr) ^Getting,#2ccce4^
 1x Solemn Simulacrum (m21) ^Getting,#2ccce4^
 1x Spare Supplies (znr) ^Have,#37d67a^
-1x Strip Mine (zne) ^Getting,#2ccce4^
-1x Sword of Truth and Justice (mh1) [Maybeboard{noDeck}{noPrice}]  ^Getting,#2ccce4^
+1x Sword of Truth and Justice (mh1) ^Getting,#2ccce4^
 1x Tamiyo's Journal (soi) ^Getting,#2ccce4^
+1x Tectonic Edge (wwk) ^Getting,#2ccce4^
 1x Temple Garden (grn) ^Getting,#2ccce4^
-1x Throne of Geth (som) ^Have,#37d67a^
 1x Tree of Tales (mrd) ^Getting,#2ccce4^
 1x Unbreakable Formation (rna) ^Getting,#2ccce4^
 1x Universal Automaton (mh1) ^Have,#37d67a^

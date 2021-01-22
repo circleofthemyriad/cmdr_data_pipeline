@@ -27,14 +27,14 @@
 1x Flooded Grove (eve) ^Have,#37d67a^
 6x Forest (ugl) 88 ^Have,#37d67a^
 1x Glasspool Mimic // Glasspool Shore (znr) [Land]  ^Don't Have,#f47373^
+1x Grove of the Burnwillows (zne) *F*  ^Have,#37d67a^
 1x Growth Spiral (rna) ^Have,#37d67a^
 1x Gruul Signet (gk2) ^Don't Have,#f47373^
 1x Haldan, Avid Arcanist (c20) *F*  [Commander{top}]  ^Have,#37d67a^
 1x Helm of the Host (dom) ^Have,#37d67a^
-1x Herald of Secret Streams (xln) [Maybeboard{noDeck}{noPrice}]  ^Have,#37d67a^
+1x Herald of Secret Streams (xln) ^Have,#37d67a^
 1x Heroic Intervention (m21) [Maybeboard{noDeck}{noPrice}]  ^Getting,#2ccce4^
 1x Hinder (chk) ^Have,#37d67a^
-1x Homeward Path (c13) ^Don't Have,#f47373^
 4x Island (ugl) 85 ^Have,#37d67a^
 1x Izzet Signet (gk1) ^Don't Have,#f47373^
 1x Ketria Triome (iko) ^Getting,#2ccce4^
@@ -65,7 +65,6 @@
 1x Return to Nature (m21) *F*  ^Have,#37d67a^
 1x Rogue's Passage (ori) ^Don't Have,#f47373^
 1x Sakashima of a Thousand Faces (cmr) ^Have,#37d67a^
-1x Sakashima the Impostor (sok) ^Getting,#2ccce4^
 1x Scalding Tarn (zen) ^Getting,#2ccce4^
 1x Sea Gate Stormcaller (znr) *F*  ^Have,#37d67a^
 1x Seasons Past (soi) ^Have,#37d67a^
@@ -91,6 +90,7 @@
 1x Training Center (cmr) ^Getting,#2ccce4^
 1x Tropical Island (leb) ^Have,#37d67a^
 1x Uro, Titan of Nature's Wrath (thb) ^Have,#37d67a^
+1x Vedalken Orrery (cns) [Maybeboard{noDeck}{noPrice}]  ^Getting,#2ccce4^
 1x Veil of Summer (m20) ^Don't Have,#f47373^
 1x Volcanic Island (leb) ^Have,#37d67a^
 1x Wilderness Reclamation (rna) [Maybeboard{noDeck}{noPrice}]  ^Have,#37d67a^

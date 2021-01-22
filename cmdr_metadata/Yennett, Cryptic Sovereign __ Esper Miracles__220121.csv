@@ -3,6 +3,7 @@
 1x,Angel of Serenity,Return to Ravnica,2012-10-05,False,False
 1x,Angelic Arbiter,Jumpstart,2020-07-17,False,False
 1x,Arcane Signet,Ikoria Commander,2020-04-24,False,False
+1x,Aven Mindcensor,Amonkhet,2017-04-28,False,False
 1x,Azorius Signet,Ravnica Kit Series 2,2019-02-15,False,False
 1x,Baneful Omen,Rise of the Eldrazi,2010-04-23,False,False
 1x,Blazing Archon,Ravnica: City of Guilds,2005-10-07,False,False
@@ -13,7 +14,6 @@
 1x,Chrome Mox,Eternal Masters,2016-06-10,False,False
 1x,Command Tower,Commander 2018,2018-08-10,False,False
 1x,Cyclonic Rift,Return to Ravnica,2012-10-05,False,False
-1x,Demon of Loathing,Theros Beyond Death,2020-01-24,False,False
 1x,Diluvian Primordial,Gatecrash,2013-02-01,False,False
 1x,Dimir Signet,Guild Kit Series 1,2018-09-29,False,False
 1x,Doom Whisperer,Guilds of Ravnica,2018-10-05,False,False
@@ -23,7 +23,6 @@
 1x,Enigma Sphinx,Alara Reborn,2009-04-10,False,False
 1x,Enlightened Tutor,Eternal Masters,2016-06-10,True,False
 1x,Entreat the Angels,Commander 2018,2018-08-10,False,False
-1x,Entreat the Dead,Commander 2018,2018-08-10,False,False
 1x,Extinction Event,Ikoria: Lair of Behemoths,2020-04-24,False,False
 1x,Fabled Passage,Throne of Eldraine,2019-10-04,False,False
 1x,Fetid Pools,Amonkhet,2017-04-28,False,False
@@ -42,10 +41,12 @@
 1x,Irrigated Farmland,Amonkhet,2017-04-28,False,False
 3x,Island,Unhinged,2004-19-20,False,False
 1x,"Jace, the Mind Sculptor",Worldwake,2010-02-05,False,False
+1x,Kaya the Inexorable,Kaldheim,2021-01-29,False,False
 1x,Kiora Bests the Sea God,Theros Beyond Death,2020-01-24,False,False
 1x,Lightning Greaves,Commander 2019,2019-08-23,False,False
 1x,Liliana Vess,Magic 2015,2014-07-18,False,False
 1x,Magister Sphinx,Conflux,2009-02-06,False,False
+1x,Mana Crypt,Double Masters,2020-08-07,False,False
 1x,Mana Drain,Iconic Masters,2017-11-17,False,False
 1x,Marsh Flats,Zendikar,2009-10-02,False,False
 1x,Mnemonic Deluge,Commander Legends,2020-11-20,False,False
@@ -65,6 +66,7 @@
 1x,Prismatic Vista,Modern Horizons,2019-06-14,False,False
 1x,Prognostic Sphinx,Theros,2013-09-27,False,False
 1x,Reflecting Pool,Judge Promos 2019,2019-01-01,True,False
+1x,"Reidane, God of the Worthy // Valkmira, Protector's Shield",Kaldheim,2021-01-29,False,False
 1x,Return to Dust,Time Spiral,2006-10-06,False,False
 1x,Scheming Symmetry,Core Set 2020,2019-07-21,False,False
 1x,Scholar of the Lost Trove,Jumpstart,2020-07-17,False,False
@@ -86,7 +88,6 @@
 1x,Telling Time,Ravnica: City of Guilds,2005-10-07,False,False
 1x,Temple of Deceit,Theros Beyond Death,2020-01-24,False,False
 1x,Temple of Enlightenment,Theros Beyond Death,2020-01-24,False,False
-1x,Terminus,Commander 2018,2018-08-10,False,False
 1x,"Teysa, Envoy of Ghosts",Dragons Maze,2013-05-03,False,False
 1x,"Thryx, the Sudden Storm",Theros Beyond Death,2020-01-24,False,False
 1x,Time Wipe,War of the Spark,2019-05-03,False,False

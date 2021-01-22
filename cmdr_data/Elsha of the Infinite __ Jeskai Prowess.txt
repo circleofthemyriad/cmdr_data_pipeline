@@ -26,7 +26,7 @@
 1x Elspeth, Sun's Champion (ths) ^Have,#37d67a^
 1x Emry, Lurker of the Loch (eld) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
 1x Enlightened Tutor (ema) ^Have,#37d67a^
-1x Etherium Sculptor (mma) ^Have,#37d67a^
+1x Etherium Sculptor (ala) ^Have,#37d67a^
 1x Fabled Passage (eld) ^Have,#37d67a^
 1x Fervor (m13) ^Have,#37d67a^
 1x Fierce Guardianship (c20) [Maybeboard{noDeck}{noPrice}]  ^Getting,#2ccce4^
@@ -44,19 +44,20 @@
 1x Idyllic Tutor (mor) ^Have,#37d67a^
 1x Increasing Devotion (dka) ^Have,#37d67a^
 1x Increasing Vengeance (dka) ^Have,#37d67a^
-1x Index (m13) ^Have,#37d67a^
 3x Island (unh) 137 ^Have,#37d67a^
 1x Isochron Scepter (ema) ^Have,#37d67a^
 1x Izzet Signet (gk1) ^Have,#37d67a^
 1x Jace, the Mind Sculptor (wwk) ^Have,#37d67a^
 1x Jeskai Ascendancy (ktk) ^Have,#37d67a^
 1x Kykar, Wind's Fury (m20) ^Have,#37d67a^
+1x Mana Crypt (2xm) [Maybeboard{noDeck}{noPrice}]  ^Getting,#2ccce4^
 1x Marsh Flats (zen) ^Have,#37d67a^
 1x Metallurgic Summonings (kld) ^Have,#37d67a^
 1x Monastery Mentor (frf) ^Have,#37d67a^
 1x Mountain (unh) 139 ^Have,#37d67a^
 1x Mystic Sanctuary (eld) ^Have,#37d67a^
 1x Mystical Tutor (ema) ^Have,#37d67a^
+1x Opt (xln) ^Have,#37d67a^
 1x Origin Spellbomb (som) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
 1x Past in Flames (isd) ^Have,#37d67a^
 1x Path to Exile (con) ^Have,#37d67a^
