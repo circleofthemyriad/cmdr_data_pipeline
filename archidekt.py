@@ -1,4 +1,4 @@
 # replacements
-class Replace(object):
+class Archidekt(object):
     def __init__(self):
         pass
