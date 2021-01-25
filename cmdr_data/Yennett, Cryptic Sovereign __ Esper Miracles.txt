@@ -1,28 +1,28 @@
 1x Academy Ruins (2xm) ^Have,#37d67a^
+1x Alrund's Epiphany (khm) ^Have,#37d67a^
 1x Aminatou, the Fateshifter (c18) *F*  ^Have,#37d67a^
 1x Angel of Serenity (rtr) ^Have,#37d67a^
-1x Angelic Arbiter (jmp) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
+1x Angelic Arbiter (cma) ^Have,#37d67a^
 1x Arcane Signet (c20) ^Have,#37d67a^
-1x Aven Mindcensor (akh) ^Have,#37d67a^
 1x Azorius Signet (gk2) ^Have,#37d67a^
 1x Baneful Omen (roe) ^Have,#37d67a^
-1x Blazing Archon (rav) ^Have,#37d67a^
+1x Blatant Thievery (e02) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
 1x Bojuka Bog (wwk) ^Have,#37d67a^
 1x Brainstorm (cst) ^Have,#37d67a^
+1x Brightclimb Pathway // Grimclimb Pathway (znr) ^Getting,#2ccce4^
 1x Castle Vantress (eld) ^Have,#37d67a^
 1x Chromatic Orrery (m21) ^Have,#37d67a^
 1x Chrome Mox (ema) ^Have,#37d67a^
+1x Clearwater Pathway // Murkwater Pathway (znr) ^Getting,#2ccce4^
 1x Command Tower (c18) ^Have,#37d67a^
-1x Cyclonic Rift (rtr) ^Have,#37d67a^
+1x Cyclonic Rift (2xm) ^Getting,#2ccce4^
 1x Diluvian Primordial (gtc) ^Have,#37d67a^
 1x Dimir Signet (gk1) ^Have,#37d67a^
 1x Doom Whisperer (grn) ^Have,#37d67a^
 1x Dovin's Veto (war) ^Have,#37d67a^
 1x Emeria's Call // Emeria, Shattered Skyclave (znr) [Land]  ^Have,#37d67a^
 1x Emrakul, the Promised End (emn) ^Have,#37d67a^
-1x Enigma Sphinx (arb) ^Have,#37d67a^
 1x Enlightened Tutor (ema) *F*  ^Have,#37d67a^
-1x Entreat the Angels (c18) ^Have,#37d67a^
 1x Extinction Event (iko) ^Have,#37d67a^
 1x Fabled Passage (eld) ^Have,#37d67a^
 1x Fetid Pools (akh) ^Have,#37d67a^
@@ -36,27 +36,25 @@
 1x Hall of Heliod's Generosity (mh1) ^Have,#37d67a^
 1x Hallowed Fountain (rna) ^Have,#37d67a^
 1x Haunted Crossroads (mmq) ^Have,#37d67a^
+1x Hengegate Pathway // Mistgate Pathway (khm) ^Getting,#2ccce4^
 1x Hindering Light (ala) ^Have,#37d67a^
 1x In Garruk's Wake (pm15) *F*  ^Have,#37d67a^
 1x Irrigated Farmland (akh) ^Have,#37d67a^
 3x Island (unh) 137 ^Have,#37d67a^
 1x Jace, the Mind Sculptor (wwk) ^Have,#37d67a^
-1x Kaya the Inexorable (khm) [Maybeboard{noDeck}{noPrice}]  ^Getting,#2ccce4^
 1x Kiora Bests the Sea God (thb) ^Have,#37d67a^
 1x Lightning Greaves (c19) ^Have,#37d67a^
 1x Liliana Vess (m15) ^Have,#37d67a^
 1x Magister Sphinx (con) ^Have,#37d67a^
 1x Mana Crypt (2xm) ^Have,#37d67a^
-1x Mana Drain (ima) ^Have,#37d67a^
 1x Marsh Flats (zen) ^Have,#37d67a^
-1x Mnemonic Deluge (cmr) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
+1x Mnemonic Deluge (cmr) ^Don't Have,#f47373^
 1x Morphic Pool (bbd) ^Have,#37d67a^
 1x Mystic Sanctuary (eld) ^Have,#37d67a^
 1x Mystical Tutor (mir) ^Have,#37d67a^
 1x Nexus of Fate (m19) *F*  ^Have,#37d67a^
 1x Path to Exile (con) ^Have,#37d67a^
 1x Peer into the Abyss (m21) ^Have,#37d67a^
-1x Pelakka Predation // Pelakka Caverns (znr) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
 1x Penance (exo) ^Have,#37d67a^
 1x Plains (unh) 136 ^Have,#37d67a^
 1x Polluted Delta (ons) ^Have,#37d67a^
@@ -64,14 +62,13 @@
 1x Portent (cst) ^Have,#37d67a^
 1x Preordain (m11) ^Have,#37d67a^
 1x Prismatic Vista (mh1) ^Have,#37d67a^
+1x Profane Transfusion (cmr) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
 1x Prognostic Sphinx (ths) ^Have,#37d67a^
 1x Reflecting Pool (j19) *F*  ^Have,#37d67a^
-1x Reidane, God of the Worthy // Valkmira, Protector's Shield (khm) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
+1x Reidane, God of the Worthy // Valkmira, Protector's Shield (khm) ^Have,#37d67a^
 1x Return to Dust (tsp) ^Have,#37d67a^
 1x Scheming Symmetry (m20) ^Have,#37d67a^
-1x Scholar of the Lost Trove (jmp) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
 1x Scroll Rack (mps) *F*  ^Have,#37d67a^
-1x Scrubland (leb) ^Have,#37d67a^
 1x Sea Gate Restoration // Sea Gate, Reborn (znr) [Land]  ^Have,#37d67a^
 1x Sea of Clouds (bbd) ^Have,#37d67a^
 1x Sensei's Divining Top (ema) ^Have,#37d67a^
@@ -91,16 +88,14 @@
 1x Teysa, Envoy of Ghosts (dgm) ^Have,#37d67a^
 1x Thryx, the Sudden Storm (thb) ^Have,#37d67a^
 1x Time Wipe (war) [Maybeboard{noDeck}{noPrice}]  ^Have,#37d67a^
-1x Triumphant Reckoning (cmr) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
-1x Tundra (leb) ^Have,#37d67a^
+1x Toxic Deluge (2xm) ^Getting,#2ccce4^
+1x Triumphant Reckoning (cmr) ^Don't Have,#f47373^
 1x Turn Aside (som) ^Have,#37d67a^
 1x Twilight Prophet (rix) ^Have,#37d67a^
-1x Underground Sea (leb) ^Have,#37d67a^
 1x Urborg, Tomb of Yawgmoth (m15) ^Have,#37d67a^
 1x Vampiric Tutor (ema) ^Have,#37d67a^
 1x Vault of Champions (cmr) ^Have,#37d67a^
 1x Venser, the Sojourner (som) ^Have,#37d67a^
-1x Void Winnower (bfz) ^Have,#37d67a^
 1x Wasteland (zne) ^Have,#37d67a^
 1x Watery Grave (grn) ^Have,#37d67a^
 1x Yennett, Cryptic Sovereign (c18) *F*  [Commander{top}]  ^Have,#37d67a^

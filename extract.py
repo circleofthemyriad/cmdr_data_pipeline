@@ -7,12 +7,17 @@ from datetime import date
 from logging import *
 from magic import *
 
-CMDR_RAW_FILES = []
+CMDR_RAW_FILES     = []
+CMDR_CURATED_FILES = []
 
 for file in os.listdir("./cmdr_data"):
     if file.endswith(".txt"):
         CMDR_RAW_FILES.append(file)
         print("Logging - Extract Event: Found Deck List: " + file) # Replace with Logging
+
+for file in os.listdir("./cmdr_metadata"):
+    if file.endswith(".csv"):
+        CMDR_CURATED_FILES.append(file)
 
 CMDR_DECKS_NUM = len(CMDR_RAW_FILES)
 

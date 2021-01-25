@@ -20,11 +20,11 @@
 1x Cultivate (m11) ^Have,#37d67a^
 1x Dakmor Salvage (fut) ^Have,#37d67a^
 1x Damnation (plc) ^Have,#37d67a^
-1x Decree of Annihilation (scg) [Maybeboard{noDeck}{noPrice}] 
+1x Decree of Annihilation (scg) [Maybeboard{noDeck}{noPrice}]  ^Getting,#2ccce4^
 1x Dragonmaster Outcast (bfz) ^Have,#37d67a^
 1x Dread Presence (m20) *F*  ^Have,#37d67a^
 1x Dryad of the Ilysian Grove (thb) ^Have,#37d67a^
-1x Elvish Reclaimer (m20) [Maybeboard{noDeck}{noPrice}] 
+1x Elvish Reclaimer (m20) [Maybeboard{noDeck}{noPrice}]  ^Getting,#2ccce4^
 1x Evolution Sage (war) ^Have,#37d67a^
 1x Exploration (usg) ^Have,#37d67a^
 1x Explore (wwk) ^Have,#37d67a^
@@ -44,7 +44,7 @@
 1x Lord Windgrace (c18) *F*  [Commander{top}]  ^Have,#37d67a^
 1x Lotus Field (m20) ^Have,#37d67a^
 1x Maelstrom Pulse (mma) ^Have,#37d67a^
-1x Malakir Rebirth // Malakir Mire (znr) *F*  [Maybeboard{noDeck}{noPrice}] 
+1x Malakir Rebirth // Malakir Mire (znr) *F*  [Maybeboard{noDeck}{noPrice}]  ^Have,#37d67a^
 1x Misty Rainforest (zen) ^Have,#37d67a^
 2x Mountain (zen) 244 ^Have,#37d67a^
 1x Nature's Claim (wwk) ^Have,#37d67a^
@@ -56,7 +56,7 @@
 1x Oracle of Mul Daya (zen) ^Have,#37d67a^
 1x Overgrown Tomb (grn) ^Have,#37d67a^
 1x Phylath, World Sculptor (znr) ^Have,#37d67a^
-1x Price of Glory (ody) [Maybeboard{noDeck}{noPrice}] 
+1x Price of Glory (ody) ^Getting,#2ccce4^
 1x Prismatic Omen (shm) ^Have,#37d67a^
 1x Prismatic Vista (mh1) ^Have,#37d67a^
 1x Pyroblast (ice) ^Have,#37d67a^
@@ -65,7 +65,6 @@
 1x Rampaging Baloths (pzen) *F*  ^Have,#37d67a^
 1x Ramunap Excavator (phou) *F*  ^Have,#37d67a^
 1x Realms Uncharted (roe) ^Have,#37d67a^
-1x Retreat to Hagra (bfz) ^Have,#37d67a^
 1x Rootbound Crag (xln) ^Have,#37d67a^
 1x Scapeshift (mor) ^Have,#37d67a^
 1x Sheltered Thicket (akh) ^Have,#37d67a^
