@@ -6,7 +6,7 @@
 1x Arcane Signet (c20) ^Have,#37d67a^
 1x Azorius Signet (gk2) ^Have,#37d67a^
 1x Baneful Omen (roe) ^Have,#37d67a^
-1x Blatant Thievery (e02) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
+1x Blatant Thievery (e02) ^Don't Have,#f47373^
 1x Bojuka Bog (wwk) ^Have,#37d67a^
 1x Brainstorm (cst) ^Have,#37d67a^
 1x Brightclimb Pathway // Grimclimb Pathway (znr) ^Getting,#2ccce4^
@@ -42,13 +42,14 @@
 1x Irrigated Farmland (akh) ^Have,#37d67a^
 3x Island (unh) 137 ^Have,#37d67a^
 1x Jace, the Mind Sculptor (wwk) ^Have,#37d67a^
+1x Kaya the Inexorable (khm) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
 1x Kiora Bests the Sea God (thb) ^Have,#37d67a^
 1x Lightning Greaves (c19) ^Have,#37d67a^
 1x Liliana Vess (m15) ^Have,#37d67a^
+1x Lim-Dûl's Vault (c13) ^Don't Have,#f47373^
 1x Magister Sphinx (con) ^Have,#37d67a^
 1x Mana Crypt (2xm) ^Have,#37d67a^
 1x Marsh Flats (zen) ^Have,#37d67a^
-1x Mnemonic Deluge (cmr) ^Don't Have,#f47373^
 1x Morphic Pool (bbd) ^Have,#37d67a^
 1x Mystic Sanctuary (eld) ^Have,#37d67a^
 1x Mystical Tutor (mir) ^Have,#37d67a^
@@ -62,7 +63,6 @@
 1x Portent (cst) ^Have,#37d67a^
 1x Preordain (m11) ^Have,#37d67a^
 1x Prismatic Vista (mh1) ^Have,#37d67a^
-1x Profane Transfusion (cmr) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
 1x Prognostic Sphinx (ths) ^Have,#37d67a^
 1x Reflecting Pool (j19) *F*  ^Have,#37d67a^
 1x Reidane, God of the Worthy // Valkmira, Protector's Shield (khm) ^Have,#37d67a^
@@ -82,7 +82,6 @@
 1x Swamp (unh) 138 ^Have,#37d67a^
 1x Swiftfoot Boots (c18) ^Have,#37d67a^
 1x Swords to Plowshares (cns) ^Have,#37d67a^
-1x Telling Time (rav) ^Have,#37d67a^
 1x Temple of Deceit (thb) ^Have,#37d67a^
 1x Temple of Enlightenment (thb) ^Have,#37d67a^
 1x Teysa, Envoy of Ghosts (dgm) ^Have,#37d67a^

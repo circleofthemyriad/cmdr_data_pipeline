@@ -36,7 +36,7 @@
 1x Glacial Fortress (xln) ^Have,#37d67a^
 1x Hall of Heliod's Generosity (mh1) ^Have,#37d67a^
 1x Hallowed Fountain (rna) ^Have,#37d67a^
-1x Helm of Awakening (vis) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
+1x Helm of Awakening (vis) ^Don't Have,#f47373^
 1x Hengegate Pathway // Mistgate Pathway (khm) ^Getting,#2ccce4^
 1x Herald of Kozilek (bfz) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
 1x Hindering Light (ala) ^Have,#37d67a^
@@ -52,7 +52,6 @@
 1x Marsh Flats (zen) ^Have,#37d67a^
 1x Mass Hysteria (mrd) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
 1x Metallurgic Summonings (kld) ^Have,#37d67a^
-1x Mirrodin Besieged (mh1) ^Don't Have,#f47373^
 1x Monastery Mentor (frf) ^Have,#37d67a^
 1x Mountain (unh) 139 ^Have,#37d67a^
 1x Mystic Sanctuary (eld) ^Have,#37d67a^

@@ -15,7 +15,8 @@
 1x Command Tower (cc1) ^Don't Have,#f47373^
 1x Cosima, God of the Voyage // The Omenkeel (khm) ^Have,#37d67a^
 1x Cragcrown Pathway // Timbercrown Pathway (znr) ^Getting,#2ccce4^
-1x Cultivate (pc2) ^Don't Have,#f47373^
+1x Cultivate (m21) ^Getting,#2ccce4^
+1x Cyclonic Rift (2xm) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
 1x Dockside Extortionist (c19) ^Have,#37d67a^
 1x Domri, Anarch of Bolas (war) ^Don't Have,#f47373^
 1x Embercleave (eld) ^Have,#37d67a^
@@ -47,6 +48,7 @@
 1x Moraug, Fury of Akoum (znr) ^Don't Have,#f47373^
 2x Mountain (ugl) 87 ^Have,#37d67a^
 1x Mystical Tutor (mir) ^Getting,#2ccce4^
+1x Narset's Reversal (war) [Maybeboard{noDeck}{noPrice}]  ^Have,#37d67a^
 1x Noxious Revival (nph) ^Getting,#2ccce4^
 1x Oblivion Sower (ddp) *F*  ^Have,#37d67a^
 1x Oko, Thief of Crowns (eld) ^Have,#37d67a^
@@ -54,7 +56,7 @@
 1x Personal Tutor (por) ^Have,#37d67a^
 1x Prismatic Vista (mh1) ^Getting,#2ccce4^
 1x Pyroblast (ice) ^Don't Have,#f47373^
-1x Rampant Growth (m12) ^Don't Have,#f47373^
+1x Rampant Growth (p09) ^Don't Have,#f47373^
 1x Reality Shift (frf) ^Have,#37d67a^
 1x Reclaim (m12) ^Have,#37d67a^
 1x Rejuvenating Springs (cmr) ^Getting,#2ccce4^
@@ -76,6 +78,7 @@
 1x Strip Mine (zne) ^Getting,#2ccce4^
 1x Sulfur Falls (dom) ^Don't Have,#f47373^
 1x Summer Bloom (vis) ^Have,#37d67a^
+1x Swan Song (sld) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
 1x Swiftfoot Boots (c17) ^Getting,#2ccce4^
 1x Sword of Feast and Famine (2xm) ^Have,#37d67a^
 1x Sword of Light and Shadow (2xm) ^Have,#37d67a^
@@ -85,7 +88,8 @@
 1x Time Warp (tmp) ^Have,#37d67a^
 1x Trailblazer's Boots (zen) ^Don't Have,#f47373^
 1x Training Center (cmr) ^Getting,#2ccce4^
+1x Tyrite Sanctum (khm) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
 1x Uro, Titan of Nature's Wrath (thb) ^Have,#37d67a^
-1x Veil of Summer (m20) ^Don't Have,#f47373^
+1x Veil of Summer (m20) *F*  ^Don't Have,#f47373^
 1x Wooded Foothills (ktk) ^Have,#37d67a^
 1x Worldly Tutor (mir) ^Don't Have,#f47373^
