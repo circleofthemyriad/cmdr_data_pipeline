@@ -28,17 +28,16 @@
 1x Fire-Lit Thicket (shm) ^Have,#37d67a^
 1x Flooded Grove (eve) ^Have,#37d67a^
 6x Forest (ugl) 88 ^Have,#37d67a^
-1x Grove of the Burnwillows (zne) *F*  ^Have,#37d67a^
 1x Growth Spiral (rna) ^Have,#37d67a^
 1x Gruul Signet (gk2) ^Don't Have,#f47373^
 1x Haldan, Avid Arcanist (c20) *F*  [Commander{top}]  ^Have,#37d67a^
 1x Helm of the Host (dom) ^Have,#37d67a^
 1x Herald of Secret Streams (xln) ^Have,#37d67a^
-1x Hinder (chk) ^Have,#37d67a^
 1x Hinterland Harbor (dom) ^Don't Have,#f47373^
 1x Horizon Stone (cmr) ^Getting,#2ccce4^
 4x Island (ugl) 85 ^Have,#37d67a^
 1x Izzet Signet (gk1) ^Don't Have,#f47373^
+1x Kessig Wolf Run (isd) ^Have,#37d67a^
 1x Ketria Triome (iko) ^Getting,#2ccce4^
 1x Kodama's Reach (mma) ^Don't Have,#f47373^
 1x Lotus Cobra (znr) ^Have,#37d67a^
@@ -54,6 +53,7 @@
 1x Oko, Thief of Crowns (eld) ^Have,#37d67a^
 1x Pako, Arcane Retriever (c20) *F*  [Commander{top}]  ^Have,#37d67a^
 1x Personal Tutor (por) ^Have,#37d67a^
+1x Phyrexian Metamorph (2xm) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
 1x Prismatic Vista (mh1) ^Getting,#2ccce4^
 1x Pyroblast (ice) ^Don't Have,#f47373^
 1x Rampant Growth (p09) ^Don't Have,#f47373^
@@ -78,7 +78,7 @@
 1x Strip Mine (zne) ^Getting,#2ccce4^
 1x Sulfur Falls (dom) ^Don't Have,#f47373^
 1x Summer Bloom (vis) ^Have,#37d67a^
-1x Swan Song (sld) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
+1x Swan Song (sld) ^Don't Have,#f47373^
 1x Swiftfoot Boots (c17) ^Getting,#2ccce4^
 1x Sword of Feast and Famine (2xm) ^Have,#37d67a^
 1x Sword of Light and Shadow (2xm) ^Have,#37d67a^

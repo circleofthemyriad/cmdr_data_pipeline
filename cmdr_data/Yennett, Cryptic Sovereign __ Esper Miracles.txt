@@ -12,7 +12,7 @@
 1x Brightclimb Pathway // Grimclimb Pathway (znr) ^Getting,#2ccce4^
 1x Castle Vantress (eld) ^Have,#37d67a^
 1x Chromatic Orrery (m21) ^Have,#37d67a^
-1x Chrome Mox (ema) ^Have,#37d67a^
+1x Chrome Mox (2xm) ^Getting,#2ccce4^
 1x Clearwater Pathway // Murkwater Pathway (znr) ^Getting,#2ccce4^
 1x Command Tower (c18) ^Have,#37d67a^
 1x Cyclonic Rift (2xm) ^Getting,#2ccce4^

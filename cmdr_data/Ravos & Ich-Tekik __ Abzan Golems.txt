@@ -1,5 +1,6 @@
 1x Adaptive Automaton (m12) ^Getting,#2ccce4^
 1x Ancient Den (mrd) ^Getting,#2ccce4^
+1x Ancient Stirrings (roe) ^Have,#37d67a^
 1x Arcbound Reclaimer (dst) ^Getting,#2ccce4^
 1x Arctic Treeline (khm) ^Don't Have,#f47373^
 1x Armix, Filigree Thrasher (cmr) *F*  ^Have,#37d67a^
@@ -9,10 +10,11 @@
 1x Blightsteel Colossus (2xm) ^Getting,#2ccce4^
 1x Brass Herald (cmr) ^Have,#37d67a^
 1x Burnished Hart (cmr) *F*  ^Have,#37d67a^
-1x Cavern of Souls (uma) ^Getting,#2ccce4^
 1x Chromatic Sphere (mrd) ^Have,#37d67a^
 1x Colossus of Akros (ths) ^Have,#37d67a^
 1x Command Tower (cmr) ^Getting,#2ccce4^
+1x Commander's Sphere (cmr) [Maybeboard{noDeck}{noPrice}]  ^Have,#37d67a^
+1x Conjurer's Closet (avr) [Maybeboard{noDeck}{noPrice}]  ^Have,#37d67a^
 1x Conversion Chamber (nph) ^Getting,#2ccce4^
 1x Darksteel Citadel (dst) ^Getting,#2ccce4^
 1x Darksteel Sentinel (som) ^Have,#37d67a^
@@ -21,8 +23,8 @@
 1x Epitaph Golem (soi) ^Getting,#2ccce4^
 1x Executioner's Capsule (ala) ^Have,#37d67a^
 1x Expedition Map (zen) ^Have,#37d67a^
-1x Flawless Maneuver (c20) ^Getting,#2ccce4^
 1x Forsaken Monument (znr) ^Getting,#2ccce4^
+1x Fortuitous Find (kld) ^Getting,#2ccce4^
 1x Geode Golem (c18) ^Have,#37d67a^
 1x Gingerbrute (eld) ^Have,#37d67a^
 1x Glimmervoid (2xm) ^Getting,#2ccce4^
@@ -35,8 +37,6 @@
 1x Howling Golem (dom) ^Have,#37d67a^
 1x Icehide Golem (mh1) ^Have,#37d67a^
 1x Ich-Tekik, Salvage Splicer (cmr) *F*  [Commander{top}]  ^Have,#37d67a^
-1x Ichor Wellspring (mbs) ^Don't Have,#f47373^
-1x Indatha Triome (iko) ^Getting,#2ccce4^
 1x Ingenuity Engine (cmr) ^Have,#37d67a^
 1x Inspiring Call (dtk) ^Have,#37d67a^
 1x Iron Bully (war) *F*  ^Have,#37d67a^
@@ -65,6 +65,7 @@
 1x Salvage Titan (ala) ^Have,#37d67a^
 1x Scarecrone (eve) ^Getting,#2ccce4^
 1x Sensor Splicer (nph) ^Have,#37d67a^
+1x Sisay's Ring (cmr) [Maybeboard{noDeck}{noPrice}]  ^Have,#37d67a^
 1x Skeleton Shard (mrd) ^Have,#37d67a^
 5x Snow-Covered Forest (khm) 285 ^Getting,#2ccce4^
 5x Snow-Covered Plains (khm) 276 ^Getting,#2ccce4^
@@ -77,8 +78,10 @@
 1x Sword of Truth and Justice (mh1) ^Getting,#2ccce4^
 1x Tamiyo's Journal (soi) ^Getting,#2ccce4^
 1x Tectonic Edge (wwk) ^Getting,#2ccce4^
+1x Temple of the False God (c19) ^Have,#37d67a^
 1x Tree of Tales (mrd) ^Getting,#2ccce4^
 1x Unbreakable Formation (rna) ^Getting,#2ccce4^
+1x Unclaimed Territory (xln) ^Have,#37d67a^
 1x Universal Automaton (mh1) ^Have,#37d67a^
 1x Unwinding Clock (c18) ^Have,#37d67a^
 1x Urza's Mine (2xm) ^Have,#37d67a^

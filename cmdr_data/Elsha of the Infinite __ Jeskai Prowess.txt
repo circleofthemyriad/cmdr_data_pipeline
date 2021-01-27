@@ -12,7 +12,7 @@
 1x Castle Vantress (eld) ^Have,#37d67a^
 1x Chromatic Lantern (grn) ^Have,#37d67a^
 1x Chromatic Star (tsp) ^Don't Have,#f47373^
-1x Chrome Mox (ema) ^Have,#37d67a^
+1x Chrome Mox (2xm) ^Getting,#2ccce4^
 1x Cloud Key (fut) ^Have,#37d67a^
 1x Command Tower (cmr) ^Have,#37d67a^
 1x Cyclonic Rift (2xm) ^Getting,#2ccce4^
@@ -21,6 +21,7 @@
 1x Dovin's Veto (war) ^Have,#37d67a^
 1x Dramatic Reversal (kld) ^Have,#37d67a^
 1x Echo of Eons (mh1) ^Have,#37d67a^
+1x Elixir of Immortality (m11) [Maybeboard{noDeck}{noPrice}]  ^Have,#37d67a^
 1x Elsha of the Infinite (c19) *F*  [Commander{top}]  ^Have,#37d67a^
 1x Elspeth, Sun's Champion (ths) ^Have,#37d67a^
 1x Emry, Lurker of the Loch (eld) ^Don't Have,#f47373^
