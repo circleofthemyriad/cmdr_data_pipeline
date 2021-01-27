@@ -1,14 +1,12 @@
 1x Adaptive Automaton (m12) ^Getting,#2ccce4^
 1x Ancient Den (mrd) ^Getting,#2ccce4^
-1x Ancient Tomb (zne) ^Getting,#2ccce4^
-1x Anguished Unmaking (soi) ^Getting,#2ccce4^
 1x Arcbound Reclaimer (dst) ^Getting,#2ccce4^
+1x Arctic Treeline (khm) ^Don't Have,#f47373^
 1x Armix, Filigree Thrasher (cmr) *F*  ^Have,#37d67a^
-1x Ashnod's Altar (ema) ^Getting,#2ccce4^
 1x Awakened Amalgam (rix) ^Getting,#2ccce4^
 1x Birthing Boughs (mh1) ^Have,#37d67a^
 1x Blade Splicer (nph) ^Have,#37d67a^
-1x Blightsteel Colossus (2xm) *F*  ^Getting,#2ccce4^
+1x Blightsteel Colossus (2xm) ^Getting,#2ccce4^
 1x Brass Herald (cmr) ^Have,#37d67a^
 1x Burnished Hart (cmr) *F*  ^Have,#37d67a^
 1x Cavern of Souls (uma) ^Getting,#2ccce4^
@@ -20,49 +18,47 @@
 1x Darksteel Sentinel (som) ^Have,#37d67a^
 1x Dispeller's Capsule (ala) ^Have,#37d67a^
 1x Doubling Season (2xm) ^Have,#37d67a^
-1x Eldrazi Displacer (ogw) ^Getting,#2ccce4^
+1x Epitaph Golem (soi) ^Getting,#2ccce4^
 1x Executioner's Capsule (ala) ^Have,#37d67a^
 1x Expedition Map (zen) ^Have,#37d67a^
-1x Fabled Passage (eld) ^Getting,#2ccce4^
 1x Flawless Maneuver (c20) ^Getting,#2ccce4^
 1x Forsaken Monument (znr) ^Getting,#2ccce4^
 1x Geode Golem (c18) ^Have,#37d67a^
 1x Gingerbrute (eld) ^Have,#37d67a^
 1x Glimmervoid (2xm) ^Getting,#2ccce4^
 1x Glissa, the Traitor (mbs) ^Have,#37d67a^
-1x Godless Shrine (rna) ^Getting,#2ccce4^
 1x Golden Guardian // Gold-Forge Garrison (rix) ^Have,#37d67a^
 1x Golem Artisan (som) ^Have,#37d67a^
 1x Golem Foundry (som) ^Have,#37d67a^
+1x Heroic Intervention (m21) ^Getting,#2ccce4^
 1x High Market (2xm) ^Getting,#2ccce4^
 1x Howling Golem (dom) ^Have,#37d67a^
 1x Icehide Golem (mh1) ^Have,#37d67a^
 1x Ich-Tekik, Salvage Splicer (cmr) *F*  [Commander{top}]  ^Have,#37d67a^
+1x Ichor Wellspring (mbs) ^Don't Have,#f47373^
+1x Indatha Triome (iko) ^Getting,#2ccce4^
+1x Ingenuity Engine (cmr) ^Have,#37d67a^
 1x Inspiring Call (dtk) ^Have,#37d67a^
 1x Iron Bully (war) *F*  ^Have,#37d67a^
 1x Karn's Bastion (war) ^Getting,#2ccce4^
 1x Lodestone Golem (wwk) ^Getting,#2ccce4^
+1x Maelstrom Colossus (cmr) ^Have,#37d67a^
 1x Mage-Ring Responder (ori) ^Have,#37d67a^
 1x Malakir Rebirth // Malakir Mire (znr) *F*  [Land]  ^Have,#37d67a^
-1x Mana Vault (uma) ^Getting,#2ccce4^
 1x Marsh Flats (zen) ^Have,#37d67a^
 1x Master Splicer (nph) ^Have,#37d67a^
 1x Maul Splicer (nph) ^Have,#37d67a^
 1x Metallic Mimic (aer) ^Getting,#2ccce4^
 1x Metalspinner's Puzzleknot (kld) ^Have,#37d67a^
 1x Meteor Golem (cmr) ^Have,#37d67a^
-1x Misty Rainforest (zen) ^Getting,#2ccce4^
-1x Mox Opal (2xm) ^Getting,#2ccce4^
 1x Mycosynth Golem (5dn) ^Getting,#2ccce4^
 1x Mycosynth Wellspring (nph) ^Getting,#2ccce4^
 1x Opal Palace (cmr) ^Have,#37d67a^
 1x Overgrown Tomb (grn) ^Have,#37d67a^
 1x Path of Ancestry (cmr) ^Have,#37d67a^
 1x Phyrexia's Core (nph) ^Getting,#2ccce4^
-1x Phyrexian Triniform (cmr) *F*  ^Getting,#2ccce4^
-1x Platinum Emperion (puma) *F*  ^Getting,#2ccce4^
+1x Phyrexian Triniform (cmr) ^Getting,#2ccce4^
 1x Precursor Golem (som) ^Getting,#2ccce4^
-1x Prismatic Vista (mh1) ^Getting,#2ccce4^
 1x Ravos, Soultender (cmr) *F*  [Commander{top}]  ^Have,#37d67a^
 1x Rebbec, Architect of Ascension (cmr) *F*  ^Have,#37d67a^
 1x Relic Golem (znr) ^Have,#37d67a^
@@ -70,25 +66,25 @@
 1x Scarecrone (eve) ^Getting,#2ccce4^
 1x Sensor Splicer (nph) ^Have,#37d67a^
 1x Skeleton Shard (mrd) ^Have,#37d67a^
-1x Smothering Tithe (rna) ^Getting,#2ccce4^
-3x Snow-Covered Forest (khm) 285 *F*  ^Getting,#2ccce4^
-3x Snow-Covered Plains (khm) 276 *F*  ^Getting,#2ccce4^
-3x Snow-Covered Swamp (khm) 281 *F*  ^Getting,#2ccce4^
+5x Snow-Covered Forest (khm) 285 ^Getting,#2ccce4^
+5x Snow-Covered Plains (khm) 276 ^Getting,#2ccce4^
+3x Snow-Covered Swamp (khm) 281 ^Getting,#2ccce4^
+1x Snowfield Sinkhole (khm) ^Don't Have,#f47373^
 1x Sol Ring (cmr) ^Getting,#2ccce4^
 1x Solemn Simulacrum (m21) ^Getting,#2ccce4^
 1x Spare Supplies (znr) ^Have,#37d67a^
+1x Splicer's Skill (mh1) ^Have,#37d67a^
 1x Sword of Truth and Justice (mh1) ^Getting,#2ccce4^
 1x Tamiyo's Journal (soi) ^Getting,#2ccce4^
 1x Tectonic Edge (wwk) ^Getting,#2ccce4^
-1x Temple Garden (grn) ^Getting,#2ccce4^
 1x Tree of Tales (mrd) ^Getting,#2ccce4^
 1x Unbreakable Formation (rna) ^Getting,#2ccce4^
 1x Universal Automaton (mh1) ^Have,#37d67a^
 1x Unwinding Clock (c18) ^Have,#37d67a^
-1x Urza's Mine (2xm) ^Getting,#2ccce4^
-1x Urza's Power Plant (2xm) ^Getting,#2ccce4^
-1x Urza's Tower (2xm) ^Getting,#2ccce4^
+1x Urza's Mine (2xm) ^Have,#37d67a^
+1x Urza's Power Plant (2xm) ^Have,#37d67a^
+1x Urza's Tower (2xm) ^Have,#37d67a^
 1x Vault of Whispers (mrd) ^Getting,#2ccce4^
-1x Verdant Catacombs (zen) ^Getting,#2ccce4^
 1x Vital Splicer (nph) ^Have,#37d67a^
 1x Welding Jar (mrd) ^Have,#37d67a^
+1x Woodland Chasm (khm) ^Don't Have,#f47373^
