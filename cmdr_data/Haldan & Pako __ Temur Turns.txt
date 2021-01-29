@@ -6,24 +6,25 @@
 1x Barkchannel Pathway // Tidechannel Pathway (khm) ^Getting,#2ccce4^
 1x Bear Umbra (roe) ^Have,#37d67a^
 1x Blasphemous Act (isd) ^Have,#37d67a^
-1x Breeding Pool (rna) ^Getting,#2ccce4^
+1x Breeding Pool (rna) ^Have,#37d67a^
 1x Broken Bond (dom) ^Don't Have,#f47373^
 1x Chandra, Torch of Defiance (kld) ^Have,#37d67a^
 1x Chromatic Lantern (grn) ^Have,#37d67a^
 1x Combat Celebrant (akh) ^Have,#37d67a^
-1x Command Beacon (c15) ^Getting,#2ccce4^
-1x Command Tower (cc1) ^Don't Have,#f47373^
+1x Comet Storm (pwwk) *F*  [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
+1x Command Beacon (c15) ^Have,#37d67a^
+1x Command Tower (c20) ^Don't Have,#f47373^
 1x Cosima, God of the Voyage // The Omenkeel (khm) ^Have,#37d67a^
 1x Cragcrown Pathway // Timbercrown Pathway (znr) ^Getting,#2ccce4^
 1x Cultivate (m21) ^Getting,#2ccce4^
-1x Cyclonic Rift (2xm) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
 1x Dockside Extortionist (c19) ^Have,#37d67a^
+1x Domri's Ambush (war) *F*  ^Getting,#2ccce4^
 1x Domri, Anarch of Bolas (war) ^Don't Have,#f47373^
 1x Embercleave (eld) ^Have,#37d67a^
 1x Etali, Primal Storm (pres) *F*  ^Have,#37d67a^
 1x Expel from Orazca (rix) ^Have,#37d67a^
-1x Exploration (2xm) ^Getting,#2ccce4^
-1x Fabled Passage (eld) ^Getting,#2ccce4^
+1x Exploration (2xm) ^Have,#37d67a^
+1x Fabled Passage (eld) ^Have,#37d67a^
 1x Farseek (rav) ^Don't Have,#f47373^
 1x Fire-Lit Thicket (shm) ^Have,#37d67a^
 1x Flooded Grove (eve) ^Have,#37d67a^
@@ -33,52 +34,48 @@
 1x Haldan, Avid Arcanist (c20) *F*  [Commander{top}]  ^Have,#37d67a^
 1x Helm of the Host (dom) ^Have,#37d67a^
 1x Herald of Secret Streams (xln) ^Have,#37d67a^
-1x Hinterland Harbor (dom) ^Don't Have,#f47373^
+1x Hinterland Harbor (dom) ^Have,#37d67a^
 1x Horizon Stone (cmr) ^Getting,#2ccce4^
 4x Island (ugl) 85 ^Have,#37d67a^
 1x Izzet Signet (gk1) ^Don't Have,#f47373^
 1x Kessig Wolf Run (isd) ^Have,#37d67a^
-1x Ketria Triome (iko) ^Getting,#2ccce4^
+1x Ketria Triome (iko) ^Have,#37d67a^
 1x Kodama's Reach (mma) ^Don't Have,#f47373^
 1x Lotus Cobra (znr) ^Have,#37d67a^
-1x Mana Crypt (2xm) ^Don't Have,#f47373^
 1x Memory Lapse (ema) *F*  ^Have,#37d67a^
-1x Misty Rainforest (zen) ^Getting,#2ccce4^
+1x Misty Rainforest (zen) ^Have,#37d67a^
 1x Moraug, Fury of Akoum (znr) ^Don't Have,#f47373^
 2x Mountain (ugl) 87 ^Have,#37d67a^
-1x Mystical Tutor (mir) ^Getting,#2ccce4^
-1x Narset's Reversal (war) [Maybeboard{noDeck}{noPrice}]  ^Have,#37d67a^
+1x Mystical Tutor (mir) ^Have,#37d67a^
+1x Narset's Reversal (war) ^Have,#37d67a^
 1x Noxious Revival (nph) ^Getting,#2ccce4^
 1x Oblivion Sower (ddp) *F*  ^Have,#37d67a^
 1x Oko, Thief of Crowns (eld) ^Have,#37d67a^
 1x Pako, Arcane Retriever (c20) *F*  [Commander{top}]  ^Have,#37d67a^
 1x Personal Tutor (por) ^Have,#37d67a^
-1x Phyrexian Metamorph (2xm) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
-1x Prismatic Vista (mh1) ^Getting,#2ccce4^
-1x Pyroblast (ice) ^Don't Have,#f47373^
-1x Rampant Growth (p09) ^Don't Have,#f47373^
+1x Prismatic Vista (mh1) ^Have,#37d67a^
+1x Rampant Growth (10e) ^Don't Have,#f47373^
 1x Reality Shift (frf) ^Have,#37d67a^
 1x Reclaim (m12) ^Have,#37d67a^
-1x Rejuvenating Springs (cmr) ^Getting,#2ccce4^
+1x Rejuvenating Springs (cmr) ^Have,#37d67a^
 1x Return to Nature (m21) *F*  ^Have,#37d67a^
 1x Riverglide Pathway // Lavaglide Pathway (znr) ^Getting,#2ccce4^
-1x Rogue's Passage (ori) ^Don't Have,#f47373^
+1x Rogue's Passage (c20) ^Don't Have,#f47373^
 1x Sakashima of a Thousand Faces (cmr) ^Have,#37d67a^
-1x Sakashima the Impostor (sok) ^Getting,#2ccce4^
-1x Scalding Tarn (zen) ^Getting,#2ccce4^
+1x Sakashima the Impostor (sok) ^Have,#37d67a^
+1x Scalding Tarn (zen) ^Have,#37d67a^
 1x Sea Gate Stormcaller (znr) *F*  ^Have,#37d67a^
 1x Seasons Past (soi) ^Have,#37d67a^
 1x Seize the Day (ody) ^Have,#37d67a^
 1x Simic Signet (gk2) ^Have,#37d67a^
 1x Sol Ring (c14) ^Have,#37d67a^
 1x Spark Double (war) ^Have,#37d67a^
-1x Spire Garden (bbd) ^Getting,#2ccce4^
-1x Steam Vents (grn) ^Getting,#2ccce4^
-1x Stomping Ground (rna) ^Getting,#2ccce4^
-1x Strip Mine (zne) ^Getting,#2ccce4^
-1x Sulfur Falls (dom) ^Don't Have,#f47373^
+1x Spire Garden (bbd) ^Have,#37d67a^
+1x Steam Vents (grn) ^Have,#37d67a^
+1x Stomping Ground (rna) ^Have,#37d67a^
+1x Strip Mine (zne) ^Have,#37d67a^
+1x Sulfur Falls (dom) ^Have,#37d67a^
 1x Summer Bloom (vis) ^Have,#37d67a^
-1x Swan Song (sld) ^Don't Have,#f47373^
 1x Swiftfoot Boots (c17) ^Getting,#2ccce4^
 1x Sword of Feast and Famine (2xm) ^Have,#37d67a^
 1x Sword of Light and Shadow (2xm) ^Have,#37d67a^
@@ -87,9 +84,9 @@
 1x Temporal Spring (apc) ^Have,#37d67a^
 1x Time Warp (tmp) ^Have,#37d67a^
 1x Trailblazer's Boots (zen) ^Don't Have,#f47373^
-1x Training Center (cmr) ^Getting,#2ccce4^
-1x Tyrite Sanctum (khm) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
+1x Training Center (cmr) ^Have,#37d67a^
 1x Uro, Titan of Nature's Wrath (thb) ^Have,#37d67a^
 1x Veil of Summer (m20) *F*  ^Don't Have,#f47373^
+1x Voidslime (sld) ^Don't Have,#f47373^
 1x Wooded Foothills (ktk) ^Have,#37d67a^
-1x Worldly Tutor (mir) ^Don't Have,#f47373^
+1x Worldly Tutor (mir) ^Have,#37d67a^

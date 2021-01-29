@@ -12,10 +12,10 @@
 1x Brightclimb Pathway // Grimclimb Pathway (znr) ^Getting,#2ccce4^
 1x Castle Vantress (eld) ^Have,#37d67a^
 1x Chromatic Orrery (m21) ^Have,#37d67a^
-1x Chrome Mox (2xm) ^Getting,#2ccce4^
+1x Chrome Mox (ema) ^Have,#37d67a^
 1x Clearwater Pathway // Murkwater Pathway (znr) ^Getting,#2ccce4^
 1x Command Tower (c18) ^Have,#37d67a^
-1x Cyclonic Rift (2xm) ^Getting,#2ccce4^
+1x Cyclonic Rift (2xm) ^Have,#37d67a^
 1x Diluvian Primordial (gtc) ^Have,#37d67a^
 1x Dimir Signet (gk1) ^Have,#37d67a^
 1x Doom Whisperer (grn) ^Have,#37d67a^
@@ -42,7 +42,6 @@
 1x Irrigated Farmland (akh) ^Have,#37d67a^
 3x Island (unh) 137 ^Have,#37d67a^
 1x Jace, the Mind Sculptor (wwk) ^Have,#37d67a^
-1x Kaya the Inexorable (khm) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
 1x Kiora Bests the Sea God (thb) ^Have,#37d67a^
 1x Lightning Greaves (c19) ^Have,#37d67a^
 1x Liliana Vess (m15) ^Have,#37d67a^
@@ -77,6 +76,7 @@
 1x Smothering Tithe (rna) ^Have,#37d67a^
 1x Sol Ring (c18) ^Have,#37d67a^
 1x Soothsaying (mmq) ^Have,#37d67a^
+1x Sphinx Ambassador (m10) ^Don't Have,#f47373^
 1x Sphinx of the Final Word (ogw) ^Have,#37d67a^
 1x Strionic Resonator (a25) ^Have,#37d67a^
 1x Swamp (unh) 138 ^Have,#37d67a^
@@ -86,9 +86,7 @@
 1x Temple of Enlightenment (thb) ^Have,#37d67a^
 1x Teysa, Envoy of Ghosts (dgm) ^Have,#37d67a^
 1x Thryx, the Sudden Storm (thb) ^Have,#37d67a^
-1x Time Wipe (war) [Maybeboard{noDeck}{noPrice}]  ^Have,#37d67a^
-1x Toxic Deluge (2xm) ^Getting,#2ccce4^
-1x Triumphant Reckoning (cmr) ^Don't Have,#f47373^
+1x Toxic Deluge (2xm) ^Have,#37d67a^
 1x Turn Aside (som) ^Have,#37d67a^
 1x Twilight Prophet (rix) ^Have,#37d67a^
 1x Urborg, Tomb of Yawgmoth (m15) ^Have,#37d67a^

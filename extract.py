@@ -19,7 +19,8 @@ for file in os.listdir("./cmdr_metadata"):
     if file.endswith(".csv"):
         CMDR_CURATED_FILES.append(file)
 
-CMDR_DECKS_NUM = len(CMDR_RAW_FILES)
+CMDR_RAW_FILES.sort(key=len)
+CMDR_CURATED_FILES.sort(key=len)
 
 class Extract(object):
     def __init__(self, filename):
