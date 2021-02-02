@@ -2,6 +2,7 @@
 1x Arcane Signet (c20) ^Have,#37d67a^
 1x Arid Mesa (zen) ^Have,#37d67a^
 1x Artful Dodge (dka) ^Have,#37d67a^
+1x Aurelia, the Warleader (gk1) *F*  ^Have,#37d67a^
 1x Azorius Signet (gk2) ^Have,#37d67a^
 1x Birgi, God of Storytelling // Harnfel, Horn of Bounty (khm) ^Have,#37d67a^
 1x Bloodwater Entity (hou) ^Have,#37d67a^
@@ -10,7 +11,6 @@
 1x Castle Ardenvale (eld) ^Have,#37d67a^
 1x Castle Vantress (eld) ^Have,#37d67a^
 1x Chromatic Lantern (grn) ^Have,#37d67a^
-1x Chromatic Star (tsp) ^Don't Have,#f47373^
 1x Chrome Mox (ema) ^Have,#37d67a^
 1x Cloud Key (fut) ^Have,#37d67a^
 1x Command Tower (cmr) ^Have,#37d67a^
@@ -19,10 +19,8 @@
 1x Divine Visitation (grn) ^Have,#37d67a^
 1x Dovin's Veto (war) ^Have,#37d67a^
 1x Dramatic Reversal (kld) ^Have,#37d67a^
-1x Echo of Eons (mh1) ^Have,#37d67a^
 1x Elsha of the Infinite (c19) *F*  [Commander{top}]  ^Have,#37d67a^
-1x Elspeth, Sun's Champion (ths) ^Have,#37d67a^
-1x Emry, Lurker of the Loch (eld) ^Don't Have,#f47373^
+1x Emry, Lurker of the Loch (eld) ^Have,#37d67a^
 1x Enlightened Tutor (ema) ^Have,#37d67a^
 1x Etherium Sculptor (ala) ^Have,#37d67a^
 1x Fabled Passage (eld) ^Have,#37d67a^
@@ -40,26 +38,26 @@
 1x Hindering Light (ala) ^Have,#37d67a^
 1x Idyllic Tutor (mor) ^Have,#37d67a^
 1x Increasing Vengeance (dka) ^Have,#37d67a^
-3x Island (unh) 137 ^Have,#37d67a^
+3x Island (thb) 281 *F*  ^Have,#37d67a^
 1x Isochron Scepter (ema) ^Have,#37d67a^
 1x Izzet Signet (gk1) ^Have,#37d67a^
 1x Jace, the Mind Sculptor (wwk) ^Have,#37d67a^
 1x Jeskai Ascendancy (ktk) ^Have,#37d67a^
 1x Kykar, Wind's Fury (m20) ^Have,#37d67a^
-1x Lotus Petal (v09) *F*  [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
+1x Lotus Petal (tmp) ^Don't Have,#f47373^
 1x Mana Crypt (2xm) ^Have,#37d67a^
 1x Marsh Flats (zen) ^Have,#37d67a^
 1x Metallurgic Summonings (kld) ^Have,#37d67a^
 1x Monastery Mentor (frf) ^Have,#37d67a^
-1x Mountain (unh) 139 ^Have,#37d67a^
-1x Mystic Forge (m20) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
+1x Mountain (thb) 285 *F*  ^Have,#37d67a^
 1x Mystic Sanctuary (eld) ^Have,#37d67a^
 1x Mystical Tutor (mir) ^Have,#37d67a^
+1x Narset of the Ancient Way (iko) ^Have,#37d67a^
 1x Needleverge Pathway // Pillarverge Pathway (znr) ^Getting,#2ccce4^
-1x Origin Spellbomb (som) ^Don't Have,#f47373^
+1x Origin Spellbomb (som) *F*  ^Have,#37d67a^
 1x Past in Flames (isd) ^Have,#37d67a^
 1x Path to Exile (con) ^Have,#37d67a^
-1x Plains (unh) 136 ^Have,#37d67a^
+1x Plains (thb) 279 *F*  ^Have,#37d67a^
 1x Ponder (m10) ^Have,#37d67a^
 1x Preordain (m11) ^Have,#37d67a^
 1x Prismatic Vista (mh1) ^Have,#37d67a^

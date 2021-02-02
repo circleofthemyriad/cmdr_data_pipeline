@@ -1,6 +1,5 @@
 print("Starting... CMDR DATA PIPELINE")
 from archidekt import *
-from logging import *
 from extract import *
 
 # __main__

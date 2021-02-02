@@ -20,7 +20,6 @@
 1x Cultivate (m11) ^Have,#37d67a^
 1x Dakmor Salvage (fut) ^Have,#37d67a^
 1x Damnation (plc) ^Have,#37d67a^
-1x Decree of Annihilation (scg) [Maybeboard{noDeck}{noPrice}]  ^Getting,#2ccce4^
 1x Dragonmaster Outcast (bfz) ^Have,#37d67a^
 1x Dread Presence (m20) *F*  ^Have,#37d67a^
 1x Dryad of the Ilysian Grove (thb) ^Have,#37d67a^
@@ -31,11 +30,12 @@
 1x Fabled Passage (eld) ^Have,#37d67a^
 1x Field of the Dead (m20) ^Have,#37d67a^
 1x Finale of Devastation (war) ^Have,#37d67a^
-5x Forest (zen) 248 ^Have,#37d67a^
+5x Forest (zen) ^Have,#37d67a^
 1x Forgotten Cave (mh1) ^Have,#37d67a^
 1x God-Eternal Bontu (war) *F*  ^Have,#37d67a^
 1x God-Eternal Rhonas (war) ^Have,#37d67a^
 1x Golgari Rot Farm (gk1) ^Have,#37d67a^
+1x Grisly Salvage (rtr) ^Don't Have,#f47373^
 1x Gruul Turf (gk2) ^Have,#37d67a^
 1x Harrow (zen) ^Have,#37d67a^
 1x Jokulhaups (ice) ^Have,#37d67a^
@@ -45,7 +45,7 @@
 1x Lotus Field (m20) ^Have,#37d67a^
 1x Maelstrom Pulse (mma) ^Have,#37d67a^
 1x Misty Rainforest (zen) ^Have,#37d67a^
-2x Mountain (zen) 244 ^Have,#37d67a^
+2x Mountain (zen) ^Have,#37d67a^
 1x Nature's Claim (wwk) ^Have,#37d67a^
 1x Nissa, Who Shakes the World (war) ^Have,#37d67a^
 1x Nurturing Peatland (mh1) ^Have,#37d67a^
@@ -71,7 +71,7 @@
 1x Splendid Reclamation (emn) ^Have,#37d67a^
 1x Springbloom Druid (mh1) ^Have,#37d67a^
 1x Stomping Ground (rna) ^Have,#37d67a^
-1x Swamp (zen) 240 ^Have,#37d67a^
+1x Swamp (zen) ^Have,#37d67a^
 1x Sylvan Scrying (mrd) ^Have,#37d67a^
 1x The Gitrog Monster (soi) ^Have,#37d67a^
 1x The Mending of Dominaria (dom) ^Have,#37d67a^
@@ -82,7 +82,6 @@
 1x Vaevictis Asmadi, the Dire (m19) *F*  ^Have,#37d67a^
 1x Valakut, the Molten Pinnacle (zen) ^Have,#37d67a^
 1x Vampiric Tutor (ema) ^Have,#37d67a^
-1x Veil of Summer (m20) *F*  ^Have,#37d67a^
 1x Verdant Catacombs (zen) ^Have,#37d67a^
 1x Volrath's Stronghold (sth) ^Have,#37d67a^
 1x Vraska, Golgari Queen (grn) ^Have,#37d67a^

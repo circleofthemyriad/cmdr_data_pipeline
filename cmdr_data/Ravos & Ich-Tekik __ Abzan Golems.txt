@@ -13,14 +13,13 @@
 1x Chromatic Sphere (mrd) ^Have,#37d67a^
 1x Colossus of Akros (ths) ^Have,#37d67a^
 1x Command Tower (cmr) ^Getting,#2ccce4^
-1x Commander's Sphere (cmr) [Maybeboard{noDeck}{noPrice}]  ^Have,#37d67a^
+1x Commander's Sphere (cmr) ^Have,#37d67a^
 1x Conjurer's Closet (avr) [Maybeboard{noDeck}{noPrice}]  ^Have,#37d67a^
 1x Conversion Chamber (nph) ^Getting,#2ccce4^
 1x Darksteel Citadel (dst) ^Getting,#2ccce4^
 1x Darksteel Sentinel (som) ^Have,#37d67a^
 1x Dispeller's Capsule (ala) ^Have,#37d67a^
 1x Doubling Season (2xm) ^Have,#37d67a^
-1x Epitaph Golem (soi) ^Getting,#2ccce4^
 1x Executioner's Capsule (ala) ^Have,#37d67a^
 1x Expedition Map (zen) ^Have,#37d67a^
 1x Forsaken Monument (znr) ^Getting,#2ccce4^
@@ -33,7 +32,6 @@
 1x Golem Artisan (som) ^Have,#37d67a^
 1x Golem Foundry (som) ^Have,#37d67a^
 1x Heroic Intervention (m21) ^Getting,#2ccce4^
-1x High Market (2xm) ^Getting,#2ccce4^
 1x Howling Golem (dom) ^Have,#37d67a^
 1x Icehide Golem (mh1) ^Have,#37d67a^
 1x Ich-Tekik, Salvage Splicer (cmr) *F*  [Commander{top}]  ^Have,#37d67a^
@@ -68,7 +66,7 @@
 1x Sisay's Ring (cmr) [Maybeboard{noDeck}{noPrice}]  ^Have,#37d67a^
 1x Skeleton Shard (mrd) ^Have,#37d67a^
 5x Snow-Covered Forest (khm) 285 ^Getting,#2ccce4^
-5x Snow-Covered Plains (khm) 276 ^Getting,#2ccce4^
+6x Snow-Covered Plains (khm) 276 ^Getting,#2ccce4^
 3x Snow-Covered Swamp (khm) 281 ^Getting,#2ccce4^
 1x Snowfield Sinkhole (khm) ^Don't Have,#f47373^
 1x Sol Ring (cmr) ^Getting,#2ccce4^

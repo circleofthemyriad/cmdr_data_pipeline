@@ -9,6 +9,7 @@ from magic import *
 
 CMDR_RAW_FILES     = []
 CMDR_CURATED_FILES = []
+CMDR_DECKNAMES     = []
 
 for file in os.listdir("./cmdr_data"):
     if file.endswith(".txt"):
@@ -27,6 +28,8 @@ class Extract(object):
         self.filename = filename.strip(' ')
         self.deckname = self.filename.rstrip('.txt')
         self.metaname = str(self.deckname+"__"+date.today().strftime("%d%m%y")+".csv")
+
+        CMDR_DECKNAMES.append(self.deckname)
 
     def isNull(self, list):
         if not list:
