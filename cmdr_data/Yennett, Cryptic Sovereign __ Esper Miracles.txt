@@ -1,11 +1,14 @@
 1x Academy Ruins (2xm) ^Have,#37d67a^
-1x Alrund's Epiphany (khm) ^Have,#37d67a^
+1x Alrund's Epiphany (khm) [Maybeboard{noDeck}{noPrice}]  ^Have,#37d67a^
 1x Aminatou, the Fateshifter (c18) *F*  ^Have,#37d67a^
 1x Angel of Serenity (rtr) ^Have,#37d67a^
-1x Angelic Arbiter (cma) ^Have,#37d67a^
+1x Angelic Arbiter (cmd) ^Have,#37d67a^
+1x Anguished Unmaking (soi) ^Don't Have,#f47373^
 1x Arcane Signet (c20) ^Have,#37d67a^
+1x Aven Mindcensor (akh) ^Have,#37d67a^
 1x Azorius Signet (gk2) ^Have,#37d67a^
 1x Baneful Omen (roe) ^Have,#37d67a^
+1x Bitterblossom (mor) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
 1x Blatant Thievery (e02) ^Don't Have,#f47373^
 1x Bojuka Bog (wwk) ^Have,#37d67a^
 1x Brainstorm (cst) ^Have,#37d67a^
@@ -16,12 +19,13 @@
 1x Clearwater Pathway // Murkwater Pathway (znr) ^Getting,#2ccce4^
 1x Command Tower (c18) ^Have,#37d67a^
 1x Cyclonic Rift (2xm) ^Have,#37d67a^
+1x Demonic Tutor (ddc) ^Don't Have,#f47373^
 1x Diluvian Primordial (gtc) ^Have,#37d67a^
 1x Dimir Signet (gk1) ^Have,#37d67a^
 1x Doom Whisperer (grn) ^Have,#37d67a^
 1x Dovin's Veto (war) ^Have,#37d67a^
+1x Elesh Norn, Grand Cenobite (nph) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
 1x Emeria's Call // Emeria, Shattered Skyclave (znr) [Land]  ^Have,#37d67a^
-1x Emrakul, the Promised End (emn) ^Have,#37d67a^
 1x Enlightened Tutor (ema) *F*  ^Have,#37d67a^
 1x Extinction Event (iko) ^Have,#37d67a^
 1x Fabled Passage (eld) ^Have,#37d67a^
@@ -42,11 +46,9 @@
 1x Irrigated Farmland (akh) ^Have,#37d67a^
 3x Island (eld) 256 *F*  ^Have,#37d67a^
 1x Jace, the Mind Sculptor (wwk) ^Have,#37d67a^
-1x Kaya the Inexorable (khm) ^Don't Have,#f47373^
-1x Kiora Bests the Sea God (thb) ^Have,#37d67a^
+1x Kambal, Consul of Allocation (kld) ^Don't Have,#f47373^
 1x Lightning Greaves (c19) ^Have,#37d67a^
 1x Liliana Vess (m15) ^Have,#37d67a^
-1x Lim-Dûl's Vault (c13) ^Don't Have,#f47373^
 1x Magister Sphinx (con) ^Have,#37d67a^
 1x Mana Crypt (2xm) ^Have,#37d67a^
 1x Marsh Flats (zen) ^Have,#37d67a^
@@ -66,19 +68,17 @@
 1x Prognostic Sphinx (ths) ^Have,#37d67a^
 1x Reflecting Pool (j19) *F*  ^Have,#37d67a^
 1x Reidane, God of the Worthy // Valkmira, Protector's Shield (khm) ^Have,#37d67a^
-1x Return to Dust (tsp) ^Have,#37d67a^
 1x Scheming Symmetry (m20) ^Have,#37d67a^
+1x Scholar of the Lost Trove (jmp) ^Don't Have,#f47373^
 1x Scroll Rack (mps) *F*  ^Have,#37d67a^
 1x Sea Gate Restoration // Sea Gate, Reborn (znr) [Land]  ^Have,#37d67a^
 1x Sea of Clouds (bbd) ^Have,#37d67a^
 1x Sensei's Divining Top (ema) ^Have,#37d67a^
 1x Sephara, Sky's Blade (m20) *F*  ^Have,#37d67a^
-1x Serum Visions (5dn) ^Have,#37d67a^
 1x Smothering Tithe (rna) ^Have,#37d67a^
 1x Sol Ring (c18) ^Have,#37d67a^
 1x Soothsaying (mmq) ^Have,#37d67a^
 1x Sphinx Ambassador (m10) ^Don't Have,#f47373^
-1x Sphinx of the Final Word (ogw) ^Have,#37d67a^
 1x Strionic Resonator (a25) ^Have,#37d67a^
 1x Swamp (eld) 261 *F*  ^Have,#37d67a^
 1x Swiftfoot Boots (c18) ^Have,#37d67a^
@@ -86,6 +86,7 @@
 1x Temple of Deceit (thb) ^Have,#37d67a^
 1x Temple of Enlightenment (thb) ^Have,#37d67a^
 1x Teysa, Envoy of Ghosts (dgm) ^Have,#37d67a^
+1x Thassa, God of the Sea (ths) ^Don't Have,#f47373^
 1x Thryx, the Sudden Storm (thb) ^Have,#37d67a^
 1x Toxic Deluge (2xm) ^Have,#37d67a^
 1x Turn Aside (som) ^Have,#37d67a^
@@ -93,6 +94,8 @@
 1x Urborg, Tomb of Yawgmoth (m15) ^Have,#37d67a^
 1x Vampiric Tutor (ema) ^Have,#37d67a^
 1x Vault of Champions (cmr) ^Have,#37d67a^
+1x Venser, the Sojourner (som) ^Have,#37d67a^
+1x Void Winnower (bfz) ^Don't Have,#f47373^
 1x Wasteland (zne) ^Have,#37d67a^
 1x Watery Grave (grn) ^Have,#37d67a^
 1x Yennett, Cryptic Sovereign (c18) *F*  [Commander{top}]  ^Have,#37d67a^

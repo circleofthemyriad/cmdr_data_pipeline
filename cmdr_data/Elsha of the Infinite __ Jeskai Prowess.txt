@@ -20,6 +20,7 @@
 1x Dovin's Veto (war) ^Have,#37d67a^
 1x Dramatic Reversal (kld) ^Have,#37d67a^
 1x Elsha of the Infinite (c19) *F*  [Commander{top}]  ^Have,#37d67a^
+1x Elspeth, Sun's Champion (ths) ^Have,#37d67a^
 1x Emry, Lurker of the Loch (eld) ^Have,#37d67a^
 1x Enlightened Tutor (ema) ^Have,#37d67a^
 1x Etherium Sculptor (ala) ^Have,#37d67a^
@@ -37,7 +38,6 @@
 1x Hengegate Pathway // Mistgate Pathway (khm) ^Getting,#2ccce4^
 1x Hindering Light (ala) ^Have,#37d67a^
 1x Idyllic Tutor (mor) ^Have,#37d67a^
-1x Increasing Vengeance (dka) ^Have,#37d67a^
 3x Island (thb) 281 *F*  ^Have,#37d67a^
 1x Isochron Scepter (ema) ^Have,#37d67a^
 1x Izzet Signet (gk1) ^Have,#37d67a^

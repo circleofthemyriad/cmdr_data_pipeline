@@ -1,21 +1,22 @@
 1x Aggravated Assault (e02) ^Have,#37d67a^
+1x Alchemist's Refuge (avr) ^Have,#37d67a^
 1x Altered Ego (soi) ^Have,#37d67a^
 1x Aqueous Form (ths) ^Have,#37d67a^
 1x Arcane Signet (c20) ^Don't Have,#f47373^
 1x As Foretold (akh) ^Have,#37d67a^
 1x Bala Ged Recovery // Bala Ged Sanctuary (znr) ^Have,#37d67a^
-1x Barkchannel Pathway // Tidechannel Pathway (khm) ^Getting,#2ccce4^
 1x Bear Umbra (roe) ^Getting,#2ccce4^
 1x Blasphemous Act (isd) ^Have,#37d67a^
+1x Blood Moon (2xm) [Sideboard]  ^Have,#37d67a^
 1x Breeding Pool (rna) ^Have,#37d67a^
 1x Broken Bond (dom) ^Have,#37d67a^
+1x Cascade Bluffs (eve) ^Have,#37d67a^
 1x Chandra, Torch of Defiance (kld) ^Have,#37d67a^
 1x Chromatic Lantern (grn) ^Have,#37d67a^
 1x Combat Celebrant (akh) ^Have,#37d67a^
 1x Command Beacon (c15) ^Have,#37d67a^
 1x Command Tower (c20) ^Have,#37d67a^
 1x Cosima, God of the Voyage // The Omenkeel (khm) ^Have,#37d67a^
-1x Cragcrown Pathway // Timbercrown Pathway (znr) ^Getting,#2ccce4^
 1x Cultivate (m21) ^Have,#37d67a^
 1x Dockside Extortionist (c19) ^Have,#37d67a^
 1x Domri's Ambush (war) *F*  ^Have,#37d67a^
@@ -34,7 +35,7 @@
 1x Helm of the Host (dom) ^Have,#37d67a^
 1x Herald of Secret Streams (xln) ^Have,#37d67a^
 1x Hinterland Harbor (dom) ^Have,#37d67a^
-1x Horizon Stone (cmr) ^Getting,#2ccce4^
+1x Horizon Stone (cmr) ^Have,#37d67a^
 4x Island (znr) 381 ^Have,#37d67a^
 1x Izzet Signet (gk1) ^Have,#37d67a^
 1x Ketria Triome (iko) ^Have,#37d67a^
@@ -58,14 +59,13 @@
 1x Reclaim (m12) ^Have,#37d67a^
 1x Rejuvenating Springs (cmr) ^Have,#37d67a^
 1x Return to Nature (m21) *F*  ^Have,#37d67a^
-1x Riverglide Pathway // Lavaglide Pathway (znr) ^Getting,#2ccce4^
 1x Rogue's Passage (c20) ^Have,#37d67a^
 1x Sakashima of a Thousand Faces (cmr) ^Have,#37d67a^
 1x Sakashima the Impostor (sok) ^Have,#37d67a^
+1x Savage Beating (dst) ^Don't Have,#f47373^
 1x Scalding Tarn (zen) ^Have,#37d67a^
 1x Sea Gate Stormcaller (znr) *F*  ^Have,#37d67a^
 1x Seasons Past (soi) ^Have,#37d67a^
-1x Seize the Day (ody) ^Getting,#2ccce4^
 1x Simic Signet (gk2) ^Have,#37d67a^
 1x Sol Ring (c14) ^Have,#37d67a^
 1x Spark Double (war) ^Have,#37d67a^
@@ -73,13 +73,14 @@
 1x Steam Vents (grn) ^Have,#37d67a^
 1x Stomping Ground (rna) ^Have,#37d67a^
 1x Strip Mine (zne) ^Have,#37d67a^
-1x Sulfur Falls (dom) ^Have,#37d67a^
+1x Sulfur Falls (isd) ^Have,#37d67a^
 1x Summer Bloom (vis) ^Have,#37d67a^
 1x Swiftfoot Boots (c17) ^Getting,#2ccce4^
 1x Sword of Feast and Famine (2xm) ^Have,#37d67a^
 1x Sword of Light and Shadow (2xm) ^Have,#37d67a^
 1x Temple of Epiphany (jou) ^Have,#37d67a^
 1x Temple of Mystery (ths) ^Have,#37d67a^
+1x Temple of the False God (c15) ^Have,#37d67a^
 1x Temporal Spring (apc) ^Have,#37d67a^
 1x Time Warp (tmp) ^Have,#37d67a^
 1x Trailblazer's Boots (zen) ^Don't Have,#f47373^
