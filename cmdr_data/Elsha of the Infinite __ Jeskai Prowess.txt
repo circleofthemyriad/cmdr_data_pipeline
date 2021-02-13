@@ -3,6 +3,7 @@
 1x Arid Mesa (zen) ^Have,#37d67a^
 1x Artful Dodge (dka) ^Have,#37d67a^
 1x Aurelia, the Warleader (gk1) *F*  ^Have,#37d67a^
+1x Austere Command (lrw) ^Have,#37d67a^
 1x Azorius Signet (gk2) ^Have,#37d67a^
 1x Birgi, God of Storytelling // Harnfel, Horn of Bounty (khm) ^Have,#37d67a^
 1x Bloodwater Entity (hou) ^Have,#37d67a^
@@ -14,6 +15,7 @@
 1x Chrome Mox (ema) ^Have,#37d67a^
 1x Cloud Key (fut) ^Have,#37d67a^
 1x Command Tower (cmr) ^Have,#37d67a^
+1x Council's Judgment (2xm) ^Have,#37d67a^
 1x Cyclonic Rift (2xm) ^Have,#37d67a^
 1x Descent of the Dragons (dtk) ^Have,#37d67a^
 1x Divine Visitation (grn) ^Have,#37d67a^
@@ -34,7 +36,7 @@
 1x Glacial Fortress (xln) ^Have,#37d67a^
 1x Hall of Heliod's Generosity (mh1) ^Have,#37d67a^
 1x Hallowed Fountain (rna) ^Have,#37d67a^
-1x Helm of Awakening (vis) ^Don't Have,#f47373^
+1x Helm of Awakening (vis) ^Have,#37d67a^
 1x Hengegate Pathway // Mistgate Pathway (khm) ^Getting,#2ccce4^
 1x Hindering Light (ala) ^Have,#37d67a^
 1x Idyllic Tutor (mor) ^Have,#37d67a^
@@ -55,7 +57,6 @@
 1x Narset of the Ancient Way (iko) ^Have,#37d67a^
 1x Needleverge Pathway // Pillarverge Pathway (znr) ^Getting,#2ccce4^
 1x Origin Spellbomb (som) *F*  ^Have,#37d67a^
-1x Past in Flames (isd) ^Have,#37d67a^
 1x Path to Exile (con) ^Have,#37d67a^
 1x Plains (thb) 279 *F*  ^Have,#37d67a^
 1x Ponder (m10) ^Have,#37d67a^
@@ -66,7 +67,7 @@
 1x Riverglide Pathway // Lavaglide Pathway (znr) ^Getting,#2ccce4^
 1x Sacred Foundry (grn) ^Have,#37d67a^
 1x Saheeli, Sublime Artificer (war) ^Have,#37d67a^
-1x Sai, Master Thopterist (m19) ^Don't Have,#f47373^
+1x Sai, Master Thopterist (m19) ^Have,#37d67a^
 1x Scalding Tarn (zen) ^Have,#37d67a^
 1x Scroll Rack (mps) *F*  ^Have,#37d67a^
 1x Sea of Clouds (bbd) ^Have,#37d67a^
@@ -92,7 +93,6 @@
 1x Vandalblast (rtr) ^Have,#37d67a^
 1x Wasteland (zne) ^Have,#37d67a^
 1x Wear // Tear (dgm) ^Have,#37d67a^
-1x Whir of Invention (aer) ^Don't Have,#f47373^
+1x Whir of Invention (aer) ^Have,#37d67a^
 1x Winds of Abandon (mh1) ^Have,#37d67a^
-1x Wrath of God (2xm) ^Don't Have,#f47373^
 1x Young Pyromancer (m14) ^Have,#37d67a^

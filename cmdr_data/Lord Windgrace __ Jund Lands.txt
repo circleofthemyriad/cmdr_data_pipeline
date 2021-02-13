@@ -30,7 +30,8 @@
 1x Fabled Passage (eld) ^Have,#37d67a^
 1x Field of the Dead (m20) ^Have,#37d67a^
 1x Finale of Devastation (war) ^Have,#37d67a^
-5x Forest (zen) ^Have,#37d67a^
+5x Forest (zen) 248 ^Have,#37d67a^
+1x Forest (2xm) 381 *F*  [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
 1x Forgotten Cave (mh1) ^Have,#37d67a^
 1x God-Eternal Bontu (war) *F*  ^Have,#37d67a^
 1x God-Eternal Rhonas (war) ^Have,#37d67a^
@@ -45,7 +46,8 @@
 1x Lotus Field (m20) ^Have,#37d67a^
 1x Maelstrom Pulse (mma) ^Have,#37d67a^
 1x Misty Rainforest (zen) ^Have,#37d67a^
-2x Mountain (zen) ^Have,#37d67a^
+2x Mountain (zen) 244 ^Have,#37d67a^
+1x Mountain (2xm) 379 *F*  [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
 1x Nature's Claim (wwk) ^Have,#37d67a^
 1x Nissa, Who Shakes the World (war) ^Have,#37d67a^
 1x Nurturing Peatland (mh1) ^Have,#37d67a^
@@ -71,7 +73,8 @@
 1x Splendid Reclamation (emn) ^Have,#37d67a^
 1x Springbloom Druid (mh1) ^Have,#37d67a^
 1x Stomping Ground (rna) ^Have,#37d67a^
-1x Swamp (zen) ^Have,#37d67a^
+1x Swamp (zen) 240 ^Have,#37d67a^
+1x Swamp (2xm) 377 *F*  [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
 1x Sylvan Scrying (mrd) ^Have,#37d67a^
 1x The Gitrog Monster (soi) ^Have,#37d67a^
 1x The Mending of Dominaria (dom) ^Have,#37d67a^
