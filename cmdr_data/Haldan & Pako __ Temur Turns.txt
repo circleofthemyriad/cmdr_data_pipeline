@@ -4,6 +4,7 @@
 1x Aqueous Form (ths) ^Have,#37d67a^
 1x Arcane Signet (c20) ^Have,#37d67a^
 1x As Foretold (akh) ^Have,#37d67a^
+1x Avenger of Zendikar (sld) ^Getting,#2ccce4^
 1x Bala Ged Recovery // Bala Ged Sanctuary (znr) ^Have,#37d67a^
 1x Bear Umbra (roe) ^Getting,#2ccce4^
 1x Blasphemous Act (isd) ^Have,#37d67a^
@@ -40,7 +41,6 @@
 1x Izzet Signet (gk1) ^Have,#37d67a^
 1x Ketria Triome (iko) ^Have,#37d67a^
 1x Kodama's Reach (mma) ^Have,#37d67a^
-1x Koma, Cosmos Serpent (khm) ^Don't Have,#f47373^
 1x Lotus Cobra (znr) ^Have,#37d67a^
 1x Memory Lapse (ema) *F*  ^Have,#37d67a^
 1x Misty Rainforest (zen) ^Have,#37d67a^
